@@ -37,7 +37,7 @@
 }
 
 @media only screen and (max-width:700px){
-    form{
+    #Loginform{
         width: 100% !important;
     }
 }
